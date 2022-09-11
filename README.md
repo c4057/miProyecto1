@@ -1,1 +1,2 @@
-# miProyecto1
+# Instrucciones 
+# Realizado para curso Coder
